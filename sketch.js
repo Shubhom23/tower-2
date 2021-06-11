@@ -142,7 +142,7 @@ function mouseDragged(){
 
 
 function mouseReleased(){
-  chain.fly();
+  //chain.fly();
 }
 
 function keyPressed(){
